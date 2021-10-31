@@ -7,9 +7,9 @@
 ### 🧐  About Me:
 
 
-- 🔋 I’m currently learning Flutter .
-- 📫 How to reach me: egammurodovabdujalil@gmail.com
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Abdujalil7?tab=repositories)
+- 🔋 I’m currently learning HTML, CSS, SASS, BOOTSTRAP and Java Script .
+- 📫 How to reach me: muhammadrizoyolbarsbekov@gmail.com
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://https://github.com/MuhammadRizo1895/MuhammadRizo1895?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📚 &nbsp; When I am free, I read detective books 🕵️‍♂️. 
 - ⚡ Fun fact: I use glasses 👓
