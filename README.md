@@ -22,18 +22,4 @@
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
 
-
-### 📊 Github Stats
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdujalil7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Abdujalil Egammurodov's Github Stats">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdujalil7&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb">
-    </p>
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Abdujalil7" alt="visitor badge"/>
-</p>
-
-<br>
